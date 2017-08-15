@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: 31mMta8rfTySsmS842d7ne+wLN6WLLHXkY0uCsFuIH5lKdyK36bt9opYmEQ3HhP/sSvn9hdSns+nzPROJKU7X3ZS5lyqQ71MKFeEcSl1UsaHIZgCuraD31c5ODbBitByLXK/L3WINpV4knSGy1pchBGnFTJMqRIFb0KRFEb7+FKN/PJ6bSRzJjmq3sSZzZTn//cCKzMm/TINaLfinKOIDgQdRXFEKlaLQSWUL5PX0b8qgo+xnMYpwK0r/PebwWIwSzY80HhCl+1V6jDO34O79hTELZ3ZY2G5xtNHViRnVb33XTXi0XYVD5wMnpb+wzLJUZL4JL9K/PD+CWxP5hd6hkbT1Y9CF2CeJBb2AJRQOi61morQa/cMxsMGQDA3efUxRq9tTJHw/9gsC2jEbkQGt/pamOyEIcggoYq8fqERlXVGKp68q6pFVLPDxXgzKzL4ezBZeiOmq1PcYa8HoXUDwAGHpK+F5KFUTZXBDiADEI1vxfpHiYUcNdZxBHbdolADYu4Tmtu2r/xQhiiCCYhXdNFkevwJ3I9rwCfiJkXfcCkUbElpmNT74Ug4pFCVBoCT1JgpS/VKv24seakDiI/AcjE+/hf1+BMtSmwAdmdk3YSEc2BnOmqWw6Y3YEubBEq89gZLpjqVv2y5xBhun9A5nJZ9oy9+K4x3T3UWZE9igm4=
-  app: https://enigmatic-badlands-88119.herokuapp.com/ 
+  app: https://git.heroku.com/enigmatic-badlands-88119.git
   on:
     repo: Jscole95/node-shopping-list-integration-tests
